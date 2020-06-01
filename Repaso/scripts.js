@@ -54,7 +54,7 @@ let perro = {
 
 console.log(perro.noPataas);
 console.log(perro.ladrar('julian'));
-if (perro.ladrar ('gato')=== 'si ladro') {
-    console.log ('Sal de mi casa');
+if (perro.ladrar('gato') === 'si ladro') {
+    console.log('Sal de mi casa');
 }
 
