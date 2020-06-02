@@ -28,7 +28,6 @@ class cuenta {
 var perez = new cuenta ("Perez","10");
 var gomez = new cuenta ("Gomez" , "1200");
 
-
 console.log (cuenta);
 console.log (perez.egreso (this.cantidad));
 console.log (gomez.ingreso (this.cantidad));
